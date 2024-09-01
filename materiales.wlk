@@ -1,5 +1,5 @@
 object cobre {
-    method esBrillante() = true
+    method esBrillante() = true   /* METODO DE CONSULTA */
 }
 
 object vidrio {

@@ -1,5 +1,5 @@
 object rojo {
-    method esFuerte() = true
+    method esFuerte() = true   /* METODO DE CONSULTA */
 }
 
 object verde {
@@ -12,4 +12,8 @@ object celeste {
 
 object pardo {
     method esFuerte() = false
+}
+
+object naranja {
+    method esFuerte() = true
 }
